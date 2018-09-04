@@ -1,1 +1,1 @@
-# This is our repository for the Citi Singapore Hackathon 2018.
+### This is our repository for the 2018 Citi Singapore Hackathon.
